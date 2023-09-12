@@ -1,0 +1,57 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/QJypZ9N/rear-view-programmer-working-all-night-long.jpg",
+        "title": "Lorem Ipsum: The Art of Filling Space",
+        "author": "John Doe",
+        "author_image": "https://i.ibb.co/zHTyD7K/blonde-young-businesswoman-writing-diary-with-pen-office.jpg",
+        "post_date": "2023-09-11",
+        "reading_time": 5,
+        "hashtags": ["Lorem", "Ipsum", "Design"]
+      },
+      
+      {
+        "id": "67890",
+        "cover": "https://i.ibb.co/8XsTVkQ/programming-background-with-person-working-with-codes-computer.jpg",
+        "title": "Cooking Adventures: A Culinary Journey",
+        "author": "Jane Smith",
+        "author_image": "https://i.ibb.co/TthVpQP/pexels-levent-simsek-4245048.jpg",
+        "post_date": "2023-09-10",
+        "reading_time": 8,
+        "hashtags": ["Cooking", "Foodie", "Recipes"]
+      },
+      {
+        "id": "54321",
+        "cover": "https://i.ibb.co/KszsjfT/close-up-image-programer-working-his-desk-office.jpg",
+        "title": "Exploring the Universe: A Space Odyssey",
+        "author": "Astronaut Alex",
+        "author_image": "https://i.ibb.co/n1mh2JM/pexels-thgusstavo-santana-1933873.jpg",
+        "post_date": "2023-09-09",
+        "reading_time": 12,
+        "hashtags": ["Space", "Astronomy", "Science"]
+      },
+      {
+        "id": "98765",
+        "cover": "https://i.ibb.co/8PfRcKC/12063795-4884785.jpg",
+        "title": "The Art of Photography: Capturing Moments",
+        "author": "Photographer Pat",
+        "author_image": "https://i.ibb.co/hyRRKHF/pexels-arianna-jad-2896853.jpg",
+        "post_date": "2023-09-08",
+        "reading_time": 7,
+        "hashtags": ["Photography", "Art", "Visuals"]
+      },
+
+      {
+        "id": "24680",
+        "cover": "https://i.ibb.co/XZk83JV/10798281-19362653.jpg",
+        "title": "Healthy Living: Tips for a Balanced Life",
+        "author": "Wellness Wendy",
+        "author_image": "https://i.ibb.co/1RKQYZP/pexels-wendy-wei-1656684.jpg",
+        "post_date": "2023-09-07",
+        "reading_time": 6,
+        "hashtags": ["Health", "Wellness", "Lifestyle"]
+      }
+      
+            
+        
+]
